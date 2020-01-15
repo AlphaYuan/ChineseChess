@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sounds/AttackKing.wav</file>
+        <file>sounds/Choose.wav</file>
+        <file>sounds/eat.wav</file>
+        <file>sounds/sound1.wav</file>
+    </qresource>
+</RCC>

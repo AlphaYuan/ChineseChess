@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/BA.GIF</file>
+        <file>images/BB.GIF</file>
+        <file>images/BC.GIF</file>
+        <file>images/BK.GIF</file>
+        <file>images/BN.GIF</file>
+        <file>images/BP.GIF</file>
+        <file>images/BR.GIF</file>
+        <file>images/RA.GIF</file>
+        <file>images/RB.GIF</file>
+        <file>images/RC.GIF</file>
+        <file>images/RK.GIF</file>
+        <file>images/RN.GIF</file>
+        <file>images/RP.GIF</file>
+        <file>images/RR.GIF</file>
+        <file>images/WHITE.GIF</file>
+        <file>images/bg.bmp</file>
+        <file>images/BAS.GIF</file>
+        <file>images/BBS.GIF</file>
+        <file>images/BCS.GIF</file>
+        <file>images/BKS.GIF</file>
+        <file>images/BNS.GIF</file>
+        <file>images/BPS.GIF</file>
+        <file>images/BRS.GIF</file>
+        <file>images/OOS.GIF</file>
+        <file>images/RAS.GIF</file>
+        <file>images/RBS.GIF</file>
+        <file>images/RCS.GIF</file>
+        <file>images/RKS.GIF</file>
+        <file>images/RNS.GIF</file>
+        <file>images/RPS.GIF</file>
+        <file>images/RRS.GIF</file>
+        <file>images/timg (1).jpg</file>
+        <file>images/welcome.jpg</file>
+        <file>images/pure.jpg</file>
+        <file>images/bg1.jpg</file>
+        <file>images/bg2.jpg</file>
+    </qresource>
+</RCC>
